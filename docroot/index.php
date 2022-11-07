@@ -1,3 +1,3 @@
 <?php
 
-echo phpinfo();
+echo 'dodkonane zmiany na developie';
