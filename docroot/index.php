@@ -1,3 +1,3 @@
 <?php
 
-echo 'dodkonane zmiany na developie';
+echo '121212121 dodkonane zmiany na developie';
